@@ -46,3 +46,14 @@ a:hover {
     background-color: var(--surface-color);
 }
 
+footer {
+    color: var(--text-color-primary);
+    text-align: center;
+    font: var(--text-sm);
+    padding-block: 5px;
+}
+
+footer:hover {
+    color: var(--text-color-secondary);
+}
+
